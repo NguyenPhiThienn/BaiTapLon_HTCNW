@@ -86,8 +86,8 @@ section.banner .slogan p {
     font-family: 'Cormorant Garamond', serif;
 }
 section.banner .slogan .image{
-    height: 15rem;
-    width: 15rem;
+    height: 20rem;
+    width: 20rem;
     overflow: hidden;
     border-radius: 50%;
     padding: 1.3rem;
